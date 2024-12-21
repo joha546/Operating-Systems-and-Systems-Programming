@@ -1,0 +1,101 @@
+1. UNIX - 0:45
+2. POSIX - 0:52
+3. MINIX - 1:07
+4. Linus Torvalds - 1:13
+5. Linux - 1:15
+6. FOSS - 1:18
+7. GPL - 1:20
+8. kernel - 1:30
+9. C language - 1:33
+10. bootloader - 1:40
+11. RAM - 1:43
+12. init - 1:46
+13. user space - 1:54
+14. memory management - 2:02
+15. virtual memory - 2:04
+16. virtual file system - 2:12
+17. ext4 - 2:16
+18. drivers - 2:22
+19. protection ring - 2:28
+20. syscalls - 2:45
+21. glibc - 2:59
+22. unistd.h - 3:03
+23. GNU - 3:07
+24. Richard Stallman - 3:14
+25. coreutils - 3:16
+26. terminal - 3:24
+27. shell - 3:28
+28. bash - 3:37
+29. echo - 3:41
+30. argument - 3:42
+31. stdout - 3:46
+32. touch - 4:01
+33. man - 4:08
+34. ls - 4:18
+35. cat - 4:24
+36. stat - 4:33
+37. timestamps - 4:36
+38. flags - 4:43
+39. combined flags - 4:54
+40. rm - 4:59
+41. output redirection - 5:06
+42. input redirection - 5:13
+43. pipes - 5:17
+44. sort - 5:28
+45. uniq - 5:31
+46. bash script - 5:39
+47. vim - 5:45
+48. emacs - 5:48
+49. nano - 5:50
+50. #! shebang - 5:55
+51. stdin - 6:02
+52. whoami - 6:44
+53. uid - 6:50
+54. root - 6:56
+55. substitute user - 7:04
+56. superuser do - 7:06
+57. groups - 7:17
+58. file system - 7:23
+59. /home - 7:27
+60. mkdir - 7:32
+61. cd - 7:33
+62. pwd - 7:35
+63. / - 7:41
+64. /boot - 7:48
+65. /dev - 7:51
+66. /etc - 7:53
+67. /var - 7:55
+68. /bin - 7:59
+69. /sbin - 8:01
+70. /usr - 8:11
+71. PATH - 8:20
+72. env var - 8:23
+73. export - 8:38
+74. .bashrc & .bash_profile - 8:45
+75. PS1 - 8:54
+76. symbolic permissions - 9:11
+77. read, write, execute - 9:20
+78. octal permissions - 9:29
+79. principle of least perivilege - 9:40
+80. chmod - 9:46
+81. chown - 9:54
+82. chgrp - 9:56
+83. ps - 10:07
+84. PID - 10:11
+85. htop - 10:14
+86. daemon - 10:19
+87. cronjob - 10:33
+88. SIGTERM - 10:42
+89. SIGKILL - 10:47
+90. grep - 10:57
+91. sed - 11:00
+92. gzip - 11:01
+93. tar - 11:03
+94. distro - 11:08
+95. package managers - 11:24
+96. release schedule - 11:29
+97. desktop env - 11:39
+98. slackware - 11:50
+99. debian - 11:54
+100. redhat - 11:58
+101. arch - 12:03
