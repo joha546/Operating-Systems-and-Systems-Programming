@@ -1,0 +1,11 @@
+linked_list
+linked_list.o
+
+stack_clobber
+stack_clobber.o
+
+stack_lifo
+stack_lifo.o
+
+warmup
+warmup.o
